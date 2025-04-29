@@ -1,4 +1,4 @@
-# Ex-06-EC2 Instance Creation
+# Ex-07-EC2 Instance Creation
 ## NAME : DHANUSHA K
 ## REG NO: 212223040034
 ## **Aim**
